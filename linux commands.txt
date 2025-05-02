@@ -1,0 +1,2 @@
+path------cd /f/devops
+pwd-------present working directory
